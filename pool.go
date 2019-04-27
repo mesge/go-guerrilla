@@ -2,8 +2,8 @@ package guerrilla
 
 import (
 	"errors"
-	"github.com/flashmob/go-guerrilla/log"
-	"github.com/flashmob/go-guerrilla/mail"
+	"github.com/mesge/go-guerrilla/log"
+	"github.com/mesge/go-guerrilla/mail"
 	"net"
 	"sync"
 	"sync/atomic"

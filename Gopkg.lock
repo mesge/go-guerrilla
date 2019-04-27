@@ -11,7 +11,7 @@
 [[projects]]
   branch = "master"
   digest = "1:ab22b2b5fd522f9681419e26d950dec299f365b0f502b06eb3531eada159ef53"
-  name = "github.com/flashmob/go-guerrilla"
+  name = "github.com/mesge/go-guerrilla"
   packages = [
     ".",
     "backends",
@@ -154,17 +154,17 @@
   analyzer-version = 1
   input-imports = [
     "github.com/asaskevich/EventBus",
-    "github.com/flashmob/go-guerrilla",
-    "github.com/flashmob/go-guerrilla/backends",
-    "github.com/flashmob/go-guerrilla/backends/storage/redigo",
-    "github.com/flashmob/go-guerrilla/log",
-    "github.com/flashmob/go-guerrilla/mail",
-    "github.com/flashmob/go-guerrilla/mail/encoding",
-    "github.com/flashmob/go-guerrilla/mail/rfc5321",
-    "github.com/flashmob/go-guerrilla/mocks",
-    "github.com/flashmob/go-guerrilla/response",
-    "github.com/flashmob/go-guerrilla/tests",
-    "github.com/flashmob/go-guerrilla/tests/testcert",
+    "github.com/mesge/go-guerrilla",
+    "github.com/mesge/go-guerrilla/backends",
+    "github.com/mesge/go-guerrilla/backends/storage/redigo",
+    "github.com/mesge/go-guerrilla/log",
+    "github.com/mesge/go-guerrilla/mail",
+    "github.com/mesge/go-guerrilla/mail/encoding",
+    "github.com/mesge/go-guerrilla/mail/rfc5321",
+    "github.com/mesge/go-guerrilla/mocks",
+    "github.com/mesge/go-guerrilla/response",
+    "github.com/mesge/go-guerrilla/tests",
+    "github.com/mesge/go-guerrilla/tests/testcert",
     "github.com/go-sql-driver/mysql",
     "github.com/gomodule/redigo/redis",
     "github.com/sirupsen/logrus",

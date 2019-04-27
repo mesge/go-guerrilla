@@ -1,6 +1,6 @@
 package redigo_driver
 
-import "github.com/flashmob/go-guerrilla/backends"
+import "github.com/mesge/go-guerrilla/backends"
 import redigo "github.com/gomodule/redigo/redis"
 
 func init() {

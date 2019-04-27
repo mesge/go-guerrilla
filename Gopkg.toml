@@ -27,7 +27,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/flashmob/go-guerrilla"
+  name = "github.com/mesge/go-guerrilla"
 
 [[constraint]]
   name = "github.com/go-sql-driver/mysql"
